@@ -14,7 +14,7 @@ It then predicts the possible price of the car. For example, the image below sho
 
 # How this project does?
 1. First of all the data was scraped from https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv)
-   Link for data: 
+   Link for data: https://github.com/nupur0910/UsedCarPricePrediction/blob/main/car%20data.csv
 
 2. The data was cleaned.
 
