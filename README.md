@@ -20,6 +20,6 @@ It then predicts the possible price of the car. For example, the image below sho
 
 3. Then a Linear Regression model was built on top of it which had 0.93 R2_score.
 
-4. Link for the notebook: 
+4. Link for the notebook: https://github.com/nupur0910/UsedCarPricePrediction/blob/main/Car_Price_Predictor.ipynb
 
 5. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
